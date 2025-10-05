@@ -12,8 +12,8 @@ nav{
     z-index: 1000;
 }
 .logo{
-    width: 78px;
-    border-radius: 22px;
+    width: 80px;
+    border-radius: 60px;
 }
 nav ul li{
     display:inline-block;
